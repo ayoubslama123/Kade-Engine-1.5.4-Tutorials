@@ -19,7 +19,11 @@ Find This Code
 ```haxe
 public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];```  
 
-add this  ```haxe , true ``` (to make week not unlock make true false (NOT ALL JUST YOUR WEEK))
+add this  
+
+```haxe , true ```
+
+ (to make week not unlock make true false (NOT ALL JUST YOUR WEEK))
 
 
 ### Add Your Story Week Character
