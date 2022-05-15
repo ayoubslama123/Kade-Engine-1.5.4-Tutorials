@@ -17,7 +17,9 @@ And Type After It This (remove " song " name by your songs names) (MAKE SURE YOU
 Find This Code
 
 ```haxe
+
 public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];```  
+
 
 add this  
 
